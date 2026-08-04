@@ -1,3 +1,2 @@
-rubika-py
-python-dotenv
-aiosqlite
+rubika
+requests
